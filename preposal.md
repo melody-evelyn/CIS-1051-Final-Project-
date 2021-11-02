@@ -2,12 +2,13 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A guessing game using emojis.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I'm doing it individually. 
 
 ## Do you have any questions of your own?
 
-TODO
+Not right now. 
+
